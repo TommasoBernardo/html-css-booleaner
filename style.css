@@ -58,7 +58,6 @@ th{
     height: 208px;
     width: 330px;
     background-size: 380px;
-    color: white;
     font-size: 30px;
 }
 
@@ -67,12 +66,12 @@ th{
     height: 208px;
     width: 330px;
     background-size: 380px;
-    color: white;
     font-size: 30px;
     margin-top: 10px;
 }
 
 .posizione-frase{
+    color: white;
     position: relative;
     left: 6%;
     top: 7%;
