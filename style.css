@@ -12,7 +12,7 @@ background-size: 380px;
     margin-top: 35px;
 }
 
-#titles{
+#title{
     font-size: 60px;
 }
 
@@ -27,6 +27,26 @@ background-size: 380px;
 
 #frase{
     background-color: yellow;
+}
+
+table{
+    table-layout: fixed;
+    width: 100%;
+
+}
+
+
+thead{
+
+        background-color:#007fff;
+}
+
+th{
+    color: white;
+}
+
+.estetica{
+    background-color:#87CEFA;
 }
 
 
