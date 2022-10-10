@@ -58,7 +58,6 @@ th{
     height: 208px;
     width: 330px;
     background-size: 380px;
-    font-size: 30px;
 }
 
 .graph{
@@ -66,7 +65,6 @@ th{
     height: 208px;
     width: 330px;
     background-size: 380px;
-    font-size: 30px;
     margin-top: 10px;
 }
 
@@ -75,5 +73,5 @@ th{
     position: relative;
     left: 6%;
     top: 7%;
-    
+    font-size: 30px;
 }
